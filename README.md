@@ -1,5 +1,7 @@
 # Detecting-Misinformation-and-Fake-News-Titles-Online
 
+Group Members: Keira Lowden, Brandon Gunasti, Jack Roberge, Shanie Hurvitz
+
 Abstract: 
 
 We addressed the problem of the spread of misinformation by developing an AI agent to classify news titles as true or fake. Our approach employed a retrieval-augmented reasoning agent utilizing a TF-IDF search backend and a small Large Language Model for generating interpretable predictions. Out of 100 predictions, the model made 62 valid predictions, achieving an overall accuracy of 46.77% on this subset. While these do indicate some challenges in the model's performance, overall, there were several important conclusions from this accuracy experiment and the model overall. 
