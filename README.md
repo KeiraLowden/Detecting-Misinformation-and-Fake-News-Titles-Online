@@ -1,8 +1,11 @@
 # Detecting-Misinformation-and-Fake-News-Titles-Online
 
 CS 4100 Final Course Project
+
 December 8, 2025
+
 Professor Zhang
+
 Group Members: Keira Lowden, Brandon Gunasti, Jack Roberge, Shanie Hurvitz
 
 Abstract: 
